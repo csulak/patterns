@@ -1,4 +1,4 @@
-# Design Patterns Exercise Project
+# Design Patterns Exercise Project.
 
 This project is an exercise in implementing and understanding various design patterns in Java. Each package demonstrates a specific design pattern or concept, showcasing its structure, components, and use cases.
 
