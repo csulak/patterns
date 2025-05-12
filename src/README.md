@@ -4,10 +4,6 @@ This project is an exercise in implementing and understanding various design pat
 
 ## Packages and Design Patterns
 
-### [Abstract Classes](src/abstractClasses)
-The **Abstract Classes** package demonstrates the use of abstract classes in Java to define common behavior and enforce specific implementations in subclasses.
-- **Key Classes**: `Animal`, `Dog`, `Labrador`
-
 ### [Command Pattern](src/patternCommand/README.md)
 The **Command Pattern** encapsulates requests as objects, allowing for parameterization, queuing, and undo/redo functionality.
 - **Key Classes**: `ICommand`, `CommandRetire`, `CommandDeposit`, `Invoker`, `User`
